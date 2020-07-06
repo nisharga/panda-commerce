@@ -1,0 +1,21 @@
+.poder-bg{
+    background: #FBEBE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF166E;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.buy-btn{
+    background: linear-gradient(to bottom, #FF4D92, #FF1E73);
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 35px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+}
