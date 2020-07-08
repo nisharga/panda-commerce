@@ -1,3 +1,4 @@
+.container{margin-bottom: 40px;}
 .poder-bg{
     background: #FBEBE9;
     border-radius: 10px;
@@ -19,3 +20,57 @@
     cursor: pointer;
     border: none;
 }
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.cat1{background-color: orchid;}
+.cat2{background-color: orange;}
+.cat3{background-color: blue;}
+
+.shoes .card, .backpack .card{
+    border: none;
+    box-shadow: 0px 0px 10px #999;
+}
+.shoes .buy-btn, .backpack btn{background: #000}
+
+.shoes, .backpack{ background: #FBEBE9;
+    padding: 20px 0px;
+}
+
+.shoes a, .backpack a{color: yellowgreen;
+text-decoration: none;
+margin-top: 13px;
+}
+
+
+
+#contact{
+    margin-top: 50px;
+}
+.subcribe-form {
+    background: #FBEBE9;
+    padding: 50px 0px;
+    
+    width: 50%;
+  }
+  #contact .container{background: #FBEBE9;
+    border-radius: 10px;}
+    .subcribe-form h2 {
+        color: #1f1f1f;
+      }
+      .subcribe-form p {
+        color: #707070;
+      }
+      #contact [type="button"] {
+        background-image: linear-gradient(to bottom, #FF5195, #FF1E73);
+        border: none;
+        color: #fff;
+        text-transform: uppercase;
+        border-radius: 0 5px 5px 0;
+        padding: 0px 20px;
+    }
+    #contact .input-group{margin-top: 30px;}
